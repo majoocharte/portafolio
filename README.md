@@ -4,7 +4,7 @@
 En este repositorio se incluyeron tres códgigos en los que trabajé durante el tiempo que ha transcurrido de mis estudios en el Tecnológico de Monterrey, en el tronco común de ingeniería.
 
 `conversorNumeros.py` \
-El primer código es el proyecto de 1er semestre de la materia *Pensamiento Computacional y programación*, en el cual se nos pidió realizar un proyecto en el lenguaje **python**, de tema libre pero que incluyerá todos los conceptos aprendidos en el curso.
+El primer código es el proyecto de primer semestre de la materia *Pensamiento Computacional y programación*, en el cual se nos pidió realizar un proyecto en el lenguaje **python**, de tema libre pero que incluyerá todos los conceptos aprendidos en el curso.
 Decidí hacer un convertidor de números arábigos a números romanos, ya que aquí pude aplicar el conocimientos de la materia, como ciclos for y while, listas y matrices, creación de funciones y más. 
 Es un proyecto significativo para mí ya que fue mi primer acercamiento con la programación y disfruté muchísimo hacerlo.
 
@@ -14,7 +14,8 @@ El siguiente archivo es un **R Markdown** con una detallada explicación del fun
 
 
 `limpiezaPreparaciónDatos.ipynb` \
-Después está un notebook de **Python** desarrollado este semestre en la optativa del área de ciencias, *Ciencia de datos y análisis cultural: cine, literatura y música*. Esta materia me ha encantado y me ha enseñado una forma nueva de aplicar los conocimientos de programación y estadística aprendidos, ya que es un análisis cultural de la sociedad a través de 
+Este es un notebook de **Python** desarrollado este semestre en la optativa del área de ciencias, *Ciencia de datos y análisis cultural: cine, literatura y música*. Esta materia me ha encantado y me ha enseñado una forma nueva de aplicar los conocimientos de programación y estadística aprendidos, ya que es un análisis cultural de la sociedad a través de **python**. Personalmente, la música es una parte importante de mi vida y en este curso, estamos desarrollando un recomendador de música que involucra crear una base de datos de canciones para poder analizarlas y crear nuestro programa. Seguimos en proceso de hacerlo pero este es un ejemplo de lo que aprendí, un código de limpieza y preparación de datos.
+Están incluidos dos csv, el original y el resultante después de aplicarle el código.
 
 `sirModel.r` \
 Por último, incluí el archivo de un modelo en **R** el cual desarrollé en el bloque de tercer semestre que estamos cursando actualmente, *Modelación de sistemas con ecuaciones diferenciales*. Es un código que aún está en modificación, ya que no hemos terminado de aprender cómo modelar cada parámetro del modelo SIR,
