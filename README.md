@@ -1,7 +1,7 @@
 **PORTAFOLIO A01707709**
 
 
-En este repositorio se incluyeron tres códgigos en los que trabajé durante el tiempo que ha transcurrido de mis estudios en el Tecnológico de Monterrey, en el tronco común de ingeniería.
+En este repositorio se incluyeron tres códigos en los que trabajé durante el tiempo que ha transcurrido de mis estudios en el Tecnológico de Monterrey, en el tronco común de ingeniería.
 
 `conversorNumeros.py` \
 El primer código es el proyecto de primer semestre de la materia *Pensamiento Computacional y programación*, en el cual se nos pidió realizar un proyecto en el lenguaje **python**, de tema libre pero que incluyerá todos los conceptos aprendidos en el curso.
