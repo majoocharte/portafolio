@@ -1,0 +1,13 @@
+.custom-panel {
+  padding: 20px;
+  border: 2px solid #4CAF50;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  margin-bottom: 20px;
+}
+
+.custom-list {
+  list-style-type: square; /* cambia el tipo de viñeta (circle, square, decimal, etc.) */
+  padding-left: 20px; /* espacio a la izquierda de la lista */
+  color: #333333; /* color del texto de la lista */
+}
